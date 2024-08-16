@@ -17,7 +17,7 @@
 
 ​	6.类的基本特性    √
 
-​	7.enumerate和zip
+​	7.enumerate和zip 两个常用函数  √
 
 ​	8.文件读写
 
